@@ -1,3 +1,4 @@
-first
+firrt
 second
 third
+did you know, that '!!' turns into 'git status'?
